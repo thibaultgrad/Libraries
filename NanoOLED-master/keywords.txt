@@ -1,0 +1,62 @@
+#######################################
+# Syntax Coloring Map For Nano OLED
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+addressingMode	KEYWORD1
+NanoOled	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD1
+setNormalDisplay	KEYWORD1
+setInverseDisplay	KEYWORD1
+sendCommand	KEYWORD1
+setPageMode	KEYWORD1
+setHorizontalMode	KEYWORD1
+setCursor	KEYWORD1
+clearDisplay	KEYWORD1
+setBrightness	KEYWORD1
+putChar	KEYWORD1
+write	KEYWORD1
+print	KEYWORD1
+println	KEYWORD1
+drawBitmap	KEYWORD1
+setHorizontalScrollProperties	KEYWORD1
+activateScroll	KEYWORD1
+deactivateScroll	KEYWORD1
+Printf KEYWORD1
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+Scroll_Left	LITERAL1
+Scroll_Right	LITERAL1
+
+Scroll_2Frames	LITERAL1
+Scroll_3Frames	LITERAL1
+Scroll_4Frames	LITERAL1
+Scroll_5Frames	LITERAL1
+Scroll_25Frames	LITERAL1
+Scroll_64Frames	LITERAL1
+Scroll_128Frames	LITERAL1
+Scroll_256Frames	LITERAL1
+
+SSD1306	LITERAL1
+SH1106	LITERAL1
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+NanoOLED	KEYWORD2
+
+
+
